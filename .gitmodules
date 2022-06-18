@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "paleopop"]
+	path = paleopop
+	url = https://github.com/globalecologylab/paleopop
+	shallow = true
+	registered = true
+[submodule "poems"]
+	path = poems
+	url = https://github.com/globalecologylab/poems
+	shallow = true
+	registered = true

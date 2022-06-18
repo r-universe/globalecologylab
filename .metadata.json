@@ -1,0 +1,10 @@
+[
+  {
+    "package": "paleopop",
+    "oncran": true
+  },
+  {
+    "package": "poems",
+    "oncran": true
+  }
+]
